@@ -28,7 +28,7 @@ Categorization of transactions (e.g., food, transport, utilities)
 
 Responsive design for mobile and desktop
 
-User-friendly interface
+User-friendly interface/ simple to interact with
 
 Persistent data storage.
 
