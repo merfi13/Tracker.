@@ -20,6 +20,8 @@ View your total Expenses in real time
 
 Analyze spending patterns
 
+Understand your spending behavior
+
 Features Add,and delete, and clear all expense entries
 
 Real-time toatal expenses update
